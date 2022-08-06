@@ -1,16 +1,3 @@
-# ml_text_extractor_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# This is the Text Extraction app using Google ML-KIT with flutter GetX 
+## OUTPUT
+![text extractor app](https://user-images.githubusercontent.com/54174389/183244595-bb693caf-0e57-4c86-a8fa-e11ef7992617.png)
