@@ -1,3 +1,8 @@
 # ml_kit_barcode_scanner
 
-![image](https://user-images.githubusercontent.com/54174389/184532479-7b603cb1-bbec-4b76-b911-3b1cc6b9a1de.png)
+![barcode app output](https://user-images.githubusercontent.com/54174389/184532519-15e6f27d-e51d-482a-9484-7f263d6a6b5b.png)
+
+# Follow me on Medium.com you will get full explanation of my projects here
+
+
+
