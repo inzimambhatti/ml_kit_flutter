@@ -1,6 +1,5 @@
 import 'dart:io';
 
-import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
@@ -57,9 +56,10 @@ child:
                     ElevatedButton(onPressed: (){
                       controller.getImage(ImageSource.gallery);
                     }, child: const Text("Pick Image")),
+
                     ElevatedButton(onPressed: (){
                       controller.recognizedText(controller.selectedImagePath.value);
-                    }, child: const Text("Scan")),
+                    }, child: const Text("Extract Text")),
                   ],
                 ),
               ),
@@ -75,7 +75,7 @@ child:
                   child: Obx(()=>
 
                   controller.extractedBarcode.value.isEmpty?
-                  const Center(child: Text("Barcode Not Found")):
+                  const Center(child: Text("Text Not Found")):
                   Center(child: Text(controller.extractedBarcode.value))
 
 

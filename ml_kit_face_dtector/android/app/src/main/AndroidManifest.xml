@@ -1,9 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.ml_kit_barcode_scanner">
-    <uses-permission android:name="android.permission.CAMERA" />
-    <uses-feature android:name="android.hardware.camera" />
+    package="com.example.ml_kit_face_dtector">
    <application
-        android:label="ml_kit_barcode_scanner"
+        android:label="ml_kit_face_dtector"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
