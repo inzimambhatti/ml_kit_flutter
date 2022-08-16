@@ -1,16 +1,8 @@
 # ml_kit_barcode_scanner
 
-A new Flutter project.
+![barcode app output](https://user-images.githubusercontent.com/54174389/184532519-15e6f27d-e51d-482a-9484-7f263d6a6b5b.png)
 
-## Getting Started
+# Follow me on Medium.com you will get full explanation of my projects here
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
