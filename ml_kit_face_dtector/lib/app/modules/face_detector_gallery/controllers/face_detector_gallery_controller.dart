@@ -26,11 +26,10 @@ Future <void>getImageAndDetectFaces() async {
       FaceDetectorOptions(
           performanceMode: FaceDetectorMode.fast, enableLandmarks: true));
   List<Face> faces = await faceDetector.processImage(image);
-
-logger.d(imageFile);
       iimageFile = imageFile;
       facess = faces;
       _loadImage(imageFile);
+
    update();
 
 }

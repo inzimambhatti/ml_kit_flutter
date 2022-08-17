@@ -1,0 +1,22 @@
+name: ml_kit_digital_ink_recognition_getx
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.17.6 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter: 
+    sdk: flutter
+  google_mlkit_digital_ink_recognition: ^0.5.0
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
