@@ -8,7 +8,6 @@ class Toast {
     showLoadingIndicator(context, message);
     final verificationResult = await t;
     Get.back();
-
     ScaffoldMessenger.of(context).hideCurrentSnackBar();
     // ScaffoldMessenger.of(context).showSnackBar(SnackBar(
     //   content: Text('Result: ${verificationResult.toString()}'),
