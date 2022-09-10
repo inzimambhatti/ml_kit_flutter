@@ -1,0 +1,27 @@
+name: ml_kit_pose_detector
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.17.6 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter: 
+    sdk: flutter
+  image_picker: ^0.8.5+3
+  google_mlkit_commons: ^0.2.0
+  google_mlkit_image_labeling: ^0.4.0
+  path_provider: ^2.0.11
+  google_mlkit_pose_detection: ^0.4.0
+  camera: ^0.10.0+1
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+

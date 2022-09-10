@@ -1,11 +1,5 @@
-
-
 import 'package:flutter/material.dart';
-
 import 'package:get/get.dart';
-import 'package:ml_kit_object_detector_flutter/components/custom_button.dart';
-import 'package:ml_kit_object_detector_flutter/painter/Object_Painter.dart';
-
 import '../controllers/home_controller.dart';
 import 'components/camera_view.dart';
 
